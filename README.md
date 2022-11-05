@@ -1,27 +1,9 @@
-# Hola :wave:, soy Yordy Almonte
-
-
-<div align="center">
-<a href="https://twitter.com/https://twitter.com/yordyr06" target="_blank">
-<img height="25" style="margin: 4px" src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt='twitter'/>
-</a>
-<a href="https://instagram.com/https://www.instagram.com/yordyr06_/" target="_blank">
-<img height="25" style="margin: 4px" src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt='instagram'/>
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yordy-almonte-5b0783231/" target="_blank">
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='LinkedIn'/>
-</a>
-<a href="https://www.codewars.com/users/dev_yordy" target="_blank">
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
-</a>
-</div>
-
+# Hola :wave:, soy Christopher Abreu
 -----------
-### Me alegra que estes viendo mi perfil en github  
-Soy un Jr frontend developer en constate aprendizaje, por ahora solo soy desarrollador frontend pero mi norte es alcanzar ser un desarrollador full-stack para poder tanto desarrollar y/o dar mantenimiento a aplicaciones y paginas web orientadas a clientes y también dar el soporte backend de ultima generación
-
-Me estoy especializando para  brindar soporte backend que faciliten el proceso deseado aportando un estilo simple, elegante y apegado a las buenas practicas, logrando así un lenguaje sencillo, legible pero sobre todo eficiente. También estoy coqueteando con la idea de un repositorio para estudiantes de habla hispana a modo de glosario y así aportar a otros de alguna forma ya que para mí es muy importante ser útil  para los demás  
-  
+### Me alegra que estes viendo mi perfil en github 
+Soy un Jr frontend developer en constate aprendizaje, por ahora solo soy desarrollador frontend pero mi norte es alcanzar ser un desarrollador full-stack para poder tanto desarrollar y/o dar mantenimiento a aplicaciones y paginas web orientadas a clientes y también dar el soporte backend de ultima generación Me estoy especializando para brindar soporte backend que faciliten el proceso deseado aportando un estilo simple, elegante y apegado a las buenas practicas, logrando así un lenguaje sencillo, legible pero sobre todo eficiente. También estoy coqueteando con la idea de un repositorio para estudiantes de habla hispana a modo de glosario y así aportar a otros de alguna forma ya que para mí es muy importante ser útil para los demás
+ENGLISH
+I'm glad you're seeing my profile on github I'm a Jr frontend developer in constant learning, for now I'm just a frontend developer but my goal is to become a full-stack developer to be able to develop and/or maintain applications and web pages oriented to clients and also provide the latest generation backend support. I am specializing in providing backend support that facilitates the desired process, providing a simple, elegant style and adhering to good practices, thus achieving a simple, readable but above all efficient language. I am also flirting with the idea of ​​a repository for Spanish-speaking students as a glossary and thus contribute to others in some way, since for me it is very important to be useful to others.
 
 <br/>  
 
