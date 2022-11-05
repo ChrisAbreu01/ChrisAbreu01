@@ -1,14 +1,12 @@
 # Hola :wave:, soy Christopher Abreu
 -----------
-### Me alegra que estes viendo mi perfil en github 
-Soy un Jr frontend developer en constate aprendizaje, por ahora solo soy desarrollador frontend pero mi norte es alcanzar ser un desarrollador full-stack para poder tanto desarrollar y/o dar mantenimiento a aplicaciones y paginas web orientadas a clientes y también dar el soporte backend de ultima generación Me estoy especializando para brindar soporte backend que faciliten el proceso deseado aportando un estilo simple, elegante y apegado a las buenas practicas, logrando así un lenguaje sencillo, legible pero sobre todo eficiente. También estoy coqueteando con la idea de un repositorio para estudiantes de habla hispana a modo de glosario y así aportar a otros de alguna forma ya que para mí es muy importante ser útil para los demás
-ENGLISH
-I'm glad you're seeing my profile on github I'm a Jr frontend developer in constant learning, for now I'm just a frontend developer but my goal is to become a full-stack developer to be able to develop and/or maintain applications and web pages oriented to clients and also provide the latest generation backend support. I am specializing in providing backend support that facilitates the desired process, providing a simple, elegant style and adhering to good practices, thus achieving a simple, readable but above all efficient language. I am also flirting with the idea of ​​a repository for Spanish-speaking students as a glossary and thus contribute to others in some way, since for me it is very important to be useful to others.
+### I'm glad you're seeing my profile on github 
+I'm a Jr frontend developer in constant learning, for now I'm just a frontend developer but my goal is to become a full-stack developer to be able to develop and/or maintain applications and web pages oriented to clients and also provide the latest generation backend support. I am specializing in providing backend support that facilitates the desired process, providing a simple, elegant style and adhering to good practices, thus achieving a simple, readable but above all efficient language. I am also flirting with the idea of ​​a repository for Spanish-speaking students as a glossary and thus contribute to others in some way, since for me it is very important to be useful to others.
 
 <br/>  
 
 
-## Tecnologias que conozco  
+## Technologys i am learning: 
 
 <div align="center">
 
@@ -40,9 +38,3 @@ I'm glad you're seeing my profile on github I'm a Jr frontend developer in const
 
 <br/>  
 
-
-
-## Tecnologias que estoy aprendiendo
-<div align="center">
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img height="25" style=
