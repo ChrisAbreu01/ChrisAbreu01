@@ -30,8 +30,6 @@ I'm a Jr frontend developer in constant learning, for now I'm just a frontend de
 <div align="center">
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="BTC"/>
 <img height="25" style="margin: 4px" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="ETH"/>
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000" alt="POT"/>
-<img height="25" style="margin: 4px" src="https://img.shields.io/badge/iota-131F37?style=for-the-badge&logo=iota&logoColor=white" alt="IOTA"/>
 </div>
 
 </div>
