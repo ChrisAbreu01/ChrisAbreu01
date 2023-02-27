@@ -1,4 +1,4 @@
-# Hola :wave:, soy Christopher Abreu
+# Hi :wave:, my name is Christopher Abreu
 -----------
 ### I'm glad you're seeing my profile on github 
 I'm a Jr frontend developer in constant learning, for now I'm just a frontend developer but my goal is to become a full-stack developer to be able to develop and/or maintain applications and web pages oriented to clients . I am specializing in providing frontend support that facilitates the desired process, providing a simple, elegant style and adhering to good practices, thus achieving a simple, readable but above all efficient language. I am also flirting with the idea of ​​a repository for Spanish-speaking students as a glossary and thus contribute to others in some way, since for me it is very important to be useful to others.
